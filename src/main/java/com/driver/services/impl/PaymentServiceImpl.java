@@ -1,10 +1,9 @@
 package com.driver.services.impl;
 
-import com.driver.Enum.PaymentMode;
+import com.driver.model.PaymentMode;
 import com.driver.model.Payment;
 import com.driver.model.Reservation;
 import com.driver.model.Spot;
-import com.driver.repository.PaymentRepository;
 import com.driver.repository.ReservationRepository;
 import com.driver.services.PaymentService;
 import org.springframework.beans.factory.annotation.Autowired;

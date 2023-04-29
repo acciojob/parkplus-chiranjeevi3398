@@ -1,6 +1,6 @@
 package com.driver.services.impl;
 
-import com.driver.Enum.SpotType;
+import com.driver.model.SpotType;
 import com.driver.model.ParkingLot;
 import com.driver.model.Reservation;
 import com.driver.model.Spot;
